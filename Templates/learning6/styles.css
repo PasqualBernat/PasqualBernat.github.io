@@ -1,0 +1,11 @@
+.title {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #4F4F77; line-height: 16px}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #FFFFFF; text-decoration: none}
+.subtitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #F08540}
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px}
+a:hover {  color: #F08540; text-decoration: none}
+.footer { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: normal; color: #FFFFFF; font-weight: normal; text-decoration: none}
+.links:hover { color: #FBE0CE; text-decoration: none}
+.footer:hover { color: #FBE0CE}
+.bullet {  list-style-image: url(images/bullet.gif); list-style-type: circle; list-style-position: outside; clip:   rect(   )}
+.menulinks { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #FFFFFF; text-decoration: none }
+.menulinks:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #F8C7A7; text-decoration: none }

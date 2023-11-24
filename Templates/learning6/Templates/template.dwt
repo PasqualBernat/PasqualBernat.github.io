@@ -1,0 +1,121 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Learning Template 6</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html;">
+<link rel="stylesheet" href="../styles.css" type="text/css">
+</head>
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#666699" vlink="#F08540">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td height="93" valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/header_fill.jpg">
+        <tr>
+          <td width="300"><img name="site_name" src="../images/site_name.gif" width="300" height="93" border="0"></td>
+          <td align="right" width="95%"><img name="header" src="../images/header.jpg" width="322" height="93" border="0"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="30" valign="top">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td width="210" background="../images/top_left_fill.jpg"><img src="../images/spacer.gif" width="210" height="1"></td>
+          <td width="23"><img name="top_middle" src="../images/top_middle.gif" width="23" height="30" border="0"></td>
+          <td bgcolor="#F08540" class="links" align="right" valign="middle" width="95%"><a href="#" class="links">HOME</a> 
+            | <a href="#" class="links">ABOUT</a> | <a href="#" class="links">CLASSES</a> 
+            | <a href="#" class="links">SPECIAL PROGRAMMES</a> | <a href="#" class="links">FUN 
+            STUFF</a> | <a href="#" class="links">CONTACT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+        <tr>
+          <td width="170" bgcolor="#F08540" valign="top"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr> 
+                <td class="menulinks"><br>
+                  <b class="links">Latest News </b> 
+                  <p>Check out our easy to integrate Web Site Add-ons!</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0" background="">
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/flash_poll/multi_poll.asp" target="_blank" class="menulinks">Smart 
+                        Multi Poll 1.0</a> </td>
+                    </tr>
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/flash_poll/" target="_blank" class="menulinks">Smart 
+                        Poll 1.0</a></td>
+                    </tr>
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/flash_guestbook/" class="menulinks" target="_blank">Smart 
+                        Guest Book 2.0</a></td>
+                    </tr>
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/flash_guestbook/free.asp" target="_blank" class="menulinks">Free 
+                        Smart Guest Book 2.0</a></td>
+                    </tr>
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/instant_quote/" target="_blank" class="menulinks">Smart 
+                        Quote</a></td>
+                    </tr>
+                    <tr> 
+                      <td width="10" valign="middle"><img src="../images/arrow.gif" width="3" height="5" align="absmiddle"></td>
+                      <td class="menulinks" height="15" valign="middle"><a href="http://www.entheosweb.com/web_products/smart_referrer/" class="menulinks" target="_blank">Free 
+                        Smart Referrer</a></td>
+                    </tr>
+                  </table>
+                  <p>&nbsp;</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td valign="top">
+            <table width="100%" border="0" cellspacing="50" cellpadding="0">
+              <tr> 
+                <td class="text" height="255">&nbsp;</td>
+                <td class="text" height="320" valign="top" width="90%"> <!-- #BeginEditable "content" -->{content}<!-- #EndEditable --></td>
+                <td class="text" height="255">&nbsp;</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height="46"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top"> 
+          <td width="210" background="../images/btm_left_fill.jpg"><img src="../images/spacer.gif" width="210" height="1"></td>
+          <td width="23"><img name="top_middle" src="../images/btm_middle.gif" width="24" height="46" border="0"></td>
+          <td class="links" valign="top" width="95%"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td bgcolor="#F08540" height="30" class="footer" align="right"><img src="../images/spacer.gif" width="1" height="30" align="absmiddle">All 
+                  Right Reserved. Copyright © Your Site Name. Designed by <a href="http://www.entheosweb.com" target="_blank" class="footer">Entheosweb.com </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+              </tr>
+              <tr> 
+                <td height="1"><img src="../images/spacer.gif" width="1" height="1"></td>
+              </tr>
+              <tr> 
+                <td height="15" bgcolor="#666699"><img src="../images/spacer.gif" width="1" height="15"></td>
+              </tr>
+            </table>
+                 </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
